@@ -1,0 +1,2 @@
+# SwiftImageInfiniteCycle
+一个简单的swift图片无限轮播
